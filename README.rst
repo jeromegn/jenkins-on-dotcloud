@@ -7,7 +7,7 @@ How To Use It (Standalone)
 
 Just use our (un)patented Clone-And-DotCloud-Push method::
 
-  git clone git://github.com/jpetazzo/jenkins-on-dotcloud.git
+  git clone git://github.com/jeromegn/jenkins-on-dotcloud.git
   dotcloud push jenkins jenkins-on-dotcloud
 
 At the end of the push, the URL to Jenkins will be shown.
